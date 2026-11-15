@@ -1,0 +1,6 @@
+{
+  "name": "SeeForMe AI",
+  "description": "Your eyes. Your AI. Your independence. A visual assistant for blind and visually impaired people with Gemini AI vision, live camera, text reading, object finding, voice assistant, and multi-language support.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
